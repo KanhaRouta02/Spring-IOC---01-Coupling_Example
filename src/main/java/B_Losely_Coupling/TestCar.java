@@ -4,5 +4,6 @@ public class TestCar {
     public static void main(String[] args) {
         Car car = new Car(new DieselEngine());
         car.drive();
+        System.out.println("Thank you for using Car");
     }
 }
