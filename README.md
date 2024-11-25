@@ -20,17 +20,4 @@ Note: It is not recommended to develop classes with Tightly coupling.
 
 Note: Car is tightly coupled with Engine.
 
-What is Dependency Injection?
-------------------------------
-
-The process of injecting dependent object into target object using target class variable  / setter method / constructor is called as Dependency Injection.
-Dependency Injection Types
-
-1) Field Injection (variable)
-2) Setter Injection (setter method)
-3) Constructor Injection (constructor)
-
-Losely coupling eaxmple 
-======================
-![image](https://github.com/user-attachments/assets/4c24db44-1f4b-477a-99a7-30f2fbc7fc2b)
 
